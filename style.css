@@ -1,0 +1,44 @@
+
+body {
+  padding: 1em;
+  border-radius: 3em;
+  border: thick dotted rgba(255, 28, 126, 0.55);
+}
+#main-banner {
+  padding-bottom: 0em;
+  background-image:
+  url("imagenes/anime-.jpg");
+  height: 8em;
+  padding-top: 0em;
+}
+#main-banner > h1 {
+  background-color: pink;
+  margin: 1;
+  width: 3em;
+}
+#main-banner > a {
+  color: black;
+  float: right;
+}
+#main-banner > p {
+background-color: cyan;
+width: 3em;
+}
+/*
+.division {
+  background-color: white;
+  color: black;
+  border: thick dotted black;
+  padding: 0em;
+  margin: 0em;
+  border-radius: 0em;
+ }
+ .rosa {
+   background-color: pink;
+   color: rgb(185, 26, 26);
+ }
+.amarillo {
+  background-color: yellow;
+  color: rgb(2, 39, 180);
+}
+*/
