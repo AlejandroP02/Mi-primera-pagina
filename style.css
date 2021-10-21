@@ -4,11 +4,14 @@ body {
   border-radius: 3em;
   border: thick dotted rgba(255, 28, 126, 0.55);
 }
+#colores {
+}
 #main-banner {
   padding-bottom: 0em;
   background-image:
   url("imagenes/anime-.jpg");
   height: 8em;
+  background-size: cover;
   padding-top: 0em;
 }
 #main-banner > h1 {
@@ -26,7 +29,7 @@ width: 3em;
 }
 
 .goblin_slayer {
-  
+  position: bottom
 }
 /*
 .division {
